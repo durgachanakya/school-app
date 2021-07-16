@@ -28,6 +28,7 @@ travel_maindiv hr {
 travel_maindiv hr,
 travel_maindiv p {
     margin: 20px;
+    color: aliceblue;
 }
 
 #achivementsID{
@@ -47,5 +48,10 @@ travel_maindiv p {
 movie_text span{
     color: darkorange;
 }
-
+.our alumni{
+     cursor: pointer;
+}
+.our alumni hr{
+    margin-bottom: 10px;
+}
 
